@@ -1,0 +1,21 @@
+{
+  "name": "shopquest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "0.18.0",
+    "cheerio": "^1.0.0-rc.3",
+    "es6-promise": "^4.2.6",
+    "express": "^4.17.0",
+    "graphql-request": "1.8.2",
+    "isomorphic-fetch": "^2.2.1",
+    "nodemon": "^1.19.0"
+  }
+}
